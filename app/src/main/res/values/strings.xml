@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WoopSicrediApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_check_in">Check-in</string>
+    <string name="shows">Atrações</string>
+    <string name="no_shows">Não há atrações para este evento.</string>
+    <string name="name">Nome</string>
+    <string name="name_hint">Seu nome</string>
+    <string name="email_hint">usuario@email.com</string>
+    <string name="email">Email</string>
+    <string name="check_in">Efetuar check-in</string>
+</resources>
